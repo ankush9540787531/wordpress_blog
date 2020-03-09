@@ -1,0 +1,1159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tada\n"
+"POT-Creation-Date: 2016-11-22 14:04+0100\n"
+"PO-Revision-Date: 2016-11-22 14:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: AD-Theme <support@ad-theme.com>\n"
+"Language: ENG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_n;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:118
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../elements/loop-search-post-1.php:61 ../elements/loop-search-post-2.php:82
+msgid ""
+"<h1>No relevant search results found</h1> Try a different search keyword. "
+msgstr ""
+
+#: ../framework/global-functions.php:93
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../framework/redux-options.php:189
+msgid "<p>Tada Option Panel - Created by AD-Theme</p>"
+msgstr ""
+
+#: ../framework/redux-options.php:212
+msgid "General"
+msgstr ""
+
+#: ../framework/redux-options.php:214 ../framework/redux-options.php:221
+msgid "General Settings"
+msgstr ""
+
+#: ../framework/redux-options.php:223
+msgid "Basic Options for Tada Theme"
+msgstr ""
+
+#: ../framework/redux-options.php:236
+msgid "Choose Preloader"
+msgstr ""
+
+#: ../framework/redux-options.php:255
+msgid "Favicon"
+msgstr ""
+
+#: ../framework/redux-options.php:257 ../framework/redux-options.php:258
+msgid "Upload your favicon"
+msgstr ""
+
+#: ../framework/redux-options.php:264
+msgid "Logo"
+msgstr ""
+
+#: ../framework/redux-options.php:266 ../framework/redux-options.php:267
+msgid "Upload your Logo"
+msgstr ""
+
+#: ../framework/redux-options.php:279
+msgid "Pagination Type"
+msgstr ""
+
+#: ../framework/redux-options.php:292
+msgid "Background"
+msgstr ""
+
+#: ../framework/redux-options.php:294
+msgid "Background Options Style"
+msgstr ""
+
+#: ../framework/redux-options.php:308
+msgid "Image Background Header"
+msgstr ""
+
+#: ../framework/redux-options.php:310
+msgid "Upload your image header background"
+msgstr ""
+
+#: ../framework/redux-options.php:320
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/redux-options.php:321
+msgid "Gives you the RGBA background Color."
+msgstr ""
+
+#: ../framework/redux-options.php:333
+msgid "Social"
+msgstr ""
+
+#: ../framework/redux-options.php:335
+msgid "Social Options"
+msgstr ""
+
+#: ../framework/redux-options.php:342
+msgid "Click <code>On</code> for active Social Header"
+msgstr ""
+
+#: ../framework/redux-options.php:348
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/redux-options.php:349 ../framework/redux-options.php:358
+#: ../framework/redux-options.php:367 ../framework/redux-options.php:376
+#: ../framework/redux-options.php:385
+msgid "Leave Empty for disable"
+msgstr ""
+
+#: ../framework/redux-options.php:350
+msgid "Facebook URL"
+msgstr ""
+
+#: ../framework/redux-options.php:357
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/redux-options.php:359
+msgid "Twitter URL"
+msgstr ""
+
+#: ../framework/redux-options.php:366
+msgid "Google Plus"
+msgstr ""
+
+#: ../framework/redux-options.php:368
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../framework/redux-options.php:375
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/redux-options.php:377
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../framework/redux-options.php:384
+msgid "Linkedin"
+msgstr ""
+
+#: ../framework/redux-options.php:386
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../framework/redux-options.php:395 ../framework/metabox/metabox.php:180
+msgid "Slider"
+msgstr ""
+
+#: ../framework/redux-options.php:397
+msgid "Slider Options"
+msgstr ""
+
+#: ../framework/redux-options.php:403
+msgid "Header Slider"
+msgstr ""
+
+#: ../framework/redux-options.php:410
+msgid "Slider Position"
+msgstr ""
+
+#: ../framework/redux-options.php:411
+msgid "Select pages shows slider"
+msgstr ""
+
+#: ../framework/redux-options.php:413
+msgid "All Pages"
+msgstr ""
+
+#: ../framework/redux-options.php:414
+msgid "Home Page"
+msgstr ""
+
+#: ../framework/redux-options.php:415
+msgid "Disable"
+msgstr ""
+
+#: ../framework/redux-options.php:423
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../framework/redux-options.php:424
+msgid "Add your slider shortcode"
+msgstr ""
+
+#: ../framework/redux-options.php:433
+msgid "Footer"
+msgstr ""
+
+#: ../framework/redux-options.php:441
+msgid "Footer Settings"
+msgstr ""
+
+#: ../framework/redux-options.php:443
+msgid "All footer settings"
+msgstr ""
+
+#: ../framework/redux-options.php:456
+msgid "Title Instagram"
+msgstr ""
+
+#: ../framework/redux-options.php:457
+msgid "Leave empty for disable"
+msgstr ""
+
+#: ../framework/redux-options.php:464
+msgid "Account"
+msgstr ""
+
+#: ../framework/redux-options.php:465
+msgid "Instagram Name Account"
+msgstr ""
+
+#: ../framework/redux-options.php:472
+msgid "Number Images to load"
+msgstr ""
+
+#: ../framework/redux-options.php:473
+msgid "Enter number of images to load. Example 6"
+msgstr ""
+
+#: ../framework/redux-options.php:491
+msgid "Footer Text"
+msgstr ""
+
+#: ../framework/redux-options.php:493
+msgid "Theme Created by Copyright © 2016. All Rights Reserved"
+msgstr ""
+
+#: ../framework/redux-options.php:512
+msgid "Single"
+msgstr ""
+
+#: ../framework/redux-options.php:520
+msgid "Single Settings"
+msgstr ""
+
+#: ../framework/redux-options.php:522
+msgid "All single settings"
+msgstr ""
+
+#: ../framework/redux-options.php:564
+msgid "General Pages"
+msgstr ""
+
+#: ../framework/redux-options.php:572
+msgid "404"
+msgstr ""
+
+#: ../framework/redux-options.php:574
+msgid "404 Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:580
+msgid "Sidebar 404 Page"
+msgstr ""
+
+#: ../framework/redux-options.php:582 ../framework/redux-options.php:603
+#: ../framework/redux-options.php:634 ../framework/redux-options.php:665
+#: ../framework/redux-options.php:706 ../framework/redux-options.php:728
+#: ../framework/redux-options.php:759
+msgid "None"
+msgstr ""
+
+#: ../framework/redux-options.php:583 ../framework/redux-options.php:604
+#: ../framework/redux-options.php:635 ../framework/redux-options.php:666
+#: ../framework/redux-options.php:707 ../framework/redux-options.php:729
+#: ../framework/redux-options.php:760
+msgid "Left"
+msgstr ""
+
+#: ../framework/redux-options.php:584 ../framework/redux-options.php:605
+#: ../framework/redux-options.php:636 ../framework/redux-options.php:667
+#: ../framework/redux-options.php:708 ../framework/redux-options.php:730
+#: ../framework/redux-options.php:761
+msgid "Right"
+msgstr ""
+
+#: ../framework/redux-options.php:593
+msgid "Archive"
+msgstr ""
+
+#: ../framework/redux-options.php:595
+msgid "Archive Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:601
+msgid "Sidebar Archive Page"
+msgstr ""
+
+#: ../framework/redux-options.php:612
+msgid "Layout Archive Page"
+msgstr ""
+
+#: ../framework/redux-options.php:614 ../framework/redux-options.php:645
+#: ../framework/redux-options.php:676 ../framework/redux-options.php:739
+#: ../framework/redux-options.php:770
+msgid "1 Column"
+msgstr ""
+
+#: ../framework/redux-options.php:615 ../framework/redux-options.php:646
+#: ../framework/redux-options.php:677 ../framework/redux-options.php:740
+#: ../framework/redux-options.php:771
+msgid "2 Columns"
+msgstr ""
+
+#: ../framework/redux-options.php:624
+msgid "Author"
+msgstr ""
+
+#: ../framework/redux-options.php:626
+msgid "Author Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:632
+msgid "Sidebar Author Page"
+msgstr ""
+
+#: ../framework/redux-options.php:643
+msgid "Layout Author Page"
+msgstr ""
+
+#: ../framework/redux-options.php:655 ../framework/metabox/metabox.php:85
+msgid "Category"
+msgstr ""
+
+#: ../framework/redux-options.php:657
+msgid "Category Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:663
+msgid "Sidebar Category Page"
+msgstr ""
+
+#: ../framework/redux-options.php:674
+msgid "Layout Category Page"
+msgstr ""
+
+#: ../framework/redux-options.php:684
+msgid "Category Description"
+msgstr ""
+
+#: ../framework/redux-options.php:686
+msgid "Show"
+msgstr ""
+
+#: ../framework/redux-options.php:687
+msgid "Hidden"
+msgstr ""
+
+#: ../framework/redux-options.php:696
+msgid "Image"
+msgstr ""
+
+#: ../framework/redux-options.php:698
+msgid "Image Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:704
+msgid "Sidebar Image Page"
+msgstr ""
+
+#: ../framework/redux-options.php:718
+msgid "Search"
+msgstr ""
+
+#: ../framework/redux-options.php:720
+msgid "Search Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:726
+msgid "Sidebar Search Page"
+msgstr ""
+
+#: ../framework/redux-options.php:737
+msgid "Layout Search Page"
+msgstr ""
+
+#: ../framework/redux-options.php:749
+msgid "Tag"
+msgstr ""
+
+#: ../framework/redux-options.php:751
+msgid "Tag Page settings"
+msgstr ""
+
+#: ../framework/redux-options.php:757
+msgid "Sidebar Tag Page"
+msgstr ""
+
+#: ../framework/redux-options.php:768
+msgid "Layout Tag Page"
+msgstr ""
+
+#: ../framework/redux-options.php:781 ../framework/redux-options.php:789
+msgid "Seo"
+msgstr ""
+
+#: ../framework/redux-options.php:791
+msgid "Seo Options"
+msgstr ""
+
+#: ../framework/redux-options.php:797
+msgid "Active Seo"
+msgstr ""
+
+#: ../framework/redux-options.php:804 ../framework/metabox/metabox.php:260
+msgid "Description"
+msgstr ""
+
+#: ../framework/redux-options.php:805
+msgid "Add your site description"
+msgstr ""
+
+#: ../framework/redux-options.php:812
+msgid "Keywords"
+msgstr ""
+
+#: ../framework/redux-options.php:813
+msgid "Add your site Keywords (example key1,key2,key3)"
+msgstr ""
+
+#: ../framework/redux-options.php:823 ../framework/redux-options.php:830
+msgid "Style"
+msgstr ""
+
+#: ../framework/redux-options.php:832
+msgid "All Color Style: "
+msgstr ""
+
+#: ../framework/redux-options.php:838
+msgid "Main color"
+msgstr ""
+
+#: ../framework/redux-options.php:839
+msgid "Pick a Main color of theme (default: #f6f6f6)."
+msgstr ""
+
+#: ../framework/redux-options.php:845
+msgid "Second Color"
+msgstr ""
+
+#: ../framework/redux-options.php:846
+msgid "Pick a Second color of theme (default: #9c8156)."
+msgstr ""
+
+#: ../framework/redux-options.php:853
+msgid "Third Color"
+msgstr ""
+
+#: ../framework/redux-options.php:854
+msgid "Pick a Third color of theme (default: #ffffff)."
+msgstr ""
+
+#: ../framework/redux-options.php:861
+msgid "Fourth Color"
+msgstr ""
+
+#: ../framework/redux-options.php:862
+msgid "Pick a Fourth color of theme (default: #000000)."
+msgstr ""
+
+#: ../framework/redux-options.php:869
+msgid "Fifth Color"
+msgstr ""
+
+#: ../framework/redux-options.php:870
+msgid "Pick a Fourth color of theme (default: #858585)."
+msgstr ""
+
+#: ../framework/redux-options.php:877
+msgid "Minor Color 1"
+msgstr ""
+
+#: ../framework/redux-options.php:878
+msgid "Pick a Minor color of theme (default: #333333)."
+msgstr ""
+
+#: ../framework/redux-options.php:885
+msgid "Minor Color 2"
+msgstr ""
+
+#: ../framework/redux-options.php:886
+msgid "Pick a Minor color of theme (default: #6d593d)."
+msgstr ""
+
+#: ../framework/redux-options.php:893
+msgid "Minor Color 3"
+msgstr ""
+
+#: ../framework/redux-options.php:894
+msgid "Pick a Minor color of theme (default: #d6d6d6)."
+msgstr ""
+
+#: ../framework/redux-options.php:901
+msgid "Minor Color 4"
+msgstr ""
+
+#: ../framework/redux-options.php:902
+msgid "Pick a Minor color of theme (default: #bababa)."
+msgstr ""
+
+#: ../framework/redux-options.php:911
+msgid "Typography"
+msgstr ""
+
+#: ../framework/redux-options.php:913
+msgid "All typography settings"
+msgstr ""
+
+#: ../framework/redux-options.php:920
+msgid "Body Typography"
+msgstr ""
+
+#: ../framework/redux-options.php:940
+msgid "Title Typography"
+msgstr ""
+
+#: ../framework/redux-options.php:962 ../framework/redux-options.php:969
+msgid "Custom Code"
+msgstr ""
+
+#: ../framework/redux-options.php:972
+msgid "Add your custom CSS/JS Code"
+msgstr ""
+
+#: ../framework/redux-options.php:977
+msgid "CSS Code"
+msgstr ""
+
+#: ../framework/redux-options.php:978
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../framework/redux-options.php:986
+msgid "JS Code"
+msgstr ""
+
+#: ../framework/redux-options.php:987
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../framework/redux-options.php:998
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/redux-options.php:1113
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/redux-options.php:1114
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:394
+#: ../framework/class/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:395
+#: ../framework/class/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/extension_wbc_importer.php:274
+#: ../framework/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:42
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:72
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:84
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:89
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:279
+#: ../framework/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:13 ../framework/metabox/metabox.php:19
+msgid "Tada Layout"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:39
+msgid "Layout Type"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:76
+msgid "Query Blog"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:106
+msgid "Order By"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:108
+msgid "none"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:109
+msgid "Comment Count"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:110
+msgid "Views"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:111
+msgid "date"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:112
+msgid "modified"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:113
+msgid "title"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:114
+msgid "rand"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:120
+msgid "Order dir"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:130
+msgid "Pagination"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:149
+msgid "Sidebar"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:181 ../framework/metabox/metabox.php:224
+msgid "(if yes override option setted on Option Panel)"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:217
+msgid "Slider shortcode"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:223
+msgid "SEO"
+msgstr ""
+
+#: ../framework/metabox/metabox.php:271
+msgid "Keyworks"
+msgstr ""

@@ -1,0 +1,21 @@
+/**
+ * Tada Theme
+ *
+ * Theme by: AD-Theme
+ * Our portfolio: http://themeforest.net/user/ad-theme/portfolio
+ *
+ */ 
+ 
+ .tada-metabox-item {
+	 display:block;
+	 margin:20px;
+ }
+ #tada-metabox h2 {
+	 font-size:25px;
+	 text-align:left;
+	 margin-left:20px;
+	 padding-left:0;
+ }
+ #blog-query {
+	 border:1px solid #f0f0f0;
+ }
